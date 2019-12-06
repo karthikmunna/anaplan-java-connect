@@ -1,2 +1,2 @@
 # anaplan-java-connect
-Implementation of Anaplan In Java
+Implementation of How We Can Connect Rest Api In Java
